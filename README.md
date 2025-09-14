@@ -9,6 +9,9 @@
 
 > 🖼️ Convert any SVG animation into a GIF with one command.  
 > Powered by Node.js, Puppeteer, and ffmpeg — wrapped in a friendly Bash script.
+> PyPi Official Package Now Available!!
+> pip install svg2gif
+
 
 ---
 
